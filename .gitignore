@@ -1,0 +1,10 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+desktop.ini
+
+# Generated reports/build artifacts
+/results/report.html
+# You might want to ignore the whole results directory if it's all generated
+# /results/
